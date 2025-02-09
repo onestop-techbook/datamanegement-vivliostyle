@@ -4,9 +4,9 @@ const isPrint = process.argv.includes("print.pdf");
 
 const def = {
   title: "vivliostyle-sample", // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
-  author: "erukiti <erukiti+github@gmail.com>", // default to `author` in `package.json` or undefined.
+  author: "oyakata <oyakata2438@gmail.com>", // default to `author` in `package.json` or undefined.
   language: "ja", // default to undefined.
-  size: "A5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
+  size: "JIS-B5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
   theme: [
     "./fonts",
     "./theme-nice-techbook2",
