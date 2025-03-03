@@ -34,6 +34,7 @@ const def = {
     "chap-device.md",
 	"chap-datacategory.md",
 	"chap-placeholder.md",
+  "chap-forte-Increase_C-Drive_capacity.md",
 
     // 後書き
     "90-postscript.md",

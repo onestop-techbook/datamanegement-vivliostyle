@@ -54,7 +54,22 @@ class: author
 ソフトウェアデザイナーです。かねてから気になっていたVivliostyleで本を作る機会に恵まれました。原稿は程々にテーマファイルをひたすら弄っていました。
 </p>
 
-
+<div class="author-profile">
+    <img src="images/FORTE.jpg">
+    <div>
+        <div>
+            <b>FORTE(フォルテ)</b>
+            <a href="https://x.com/FORTEgp05">Twitter(X)@FORTEgp05</a>
+        </div>
+        <div>
+            サークル名：aozora Project
+            <a href="https://techbookfest.org/organization/30860006">技術書典サークルページ</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+Webアプリケーションのバックエンドエンジニアですが、いろいろやってます。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。
+</p>
 
 <!-- ページ数調整 -->
 <br />
