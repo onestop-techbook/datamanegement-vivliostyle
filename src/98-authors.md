@@ -71,6 +71,23 @@ class: author
 Webアプリケーションのバックエンドエンジニアですが、いろいろやってます。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。
 </p>
 
+<div class="author-profile">
+    <img src="images/fumiyasac.jpg">
+    <div>
+        <div>
+            <b>fumiyasac(Fumiya Sakai)</b>
+            <a href="https://x.com/fumiyasac">X@fumiyasac</a>
+        </div>
+        <div>
+            サークル名：Just1factory
+            <a href="https://just1factory.net/books/">https://just1factory.net/books/</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+アプリのUI実装が好きな元デザイナーからジョブチェンジをしたエンジニア。アイデアを練ったり、設計のためのメモや図解を作る時はもっぱら手書きで描くことが多いです。
+</p>
+
 <!-- ページ数調整 -->
 <br />
 <br />
