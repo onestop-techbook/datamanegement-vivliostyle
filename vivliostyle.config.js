@@ -34,9 +34,10 @@ const def = {
     "chap-device.md",
 	"chap-datacategory.md",
 	"chap-placeholder.md",
-  "chap-forte-Increase_C-Drive_capacity.md",
-  "chap-forte-cloudflare-r2.md",
-  "chap-fumiyasac.md",
+	"chap-forte-Increase_C-Drive_capacity.md",
+  	"chap-forte-cloudflare-r2.md",
+  	"chap-fumiyasac.md",
+  	"chap-oyakata-raid.md",
 
     // 後書き
     "90-postscript.md",
