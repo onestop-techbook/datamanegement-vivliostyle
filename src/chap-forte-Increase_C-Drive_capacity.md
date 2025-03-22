@@ -2,6 +2,10 @@
 class: chapter
 ---
 
+<div class="flush-right">
+FORTE(フォルテ)@FORTEgp05
+</div>
+
 # Cドライブの空容量を増やす
 本章の執筆をしましたFORTE(フォルテ)と申します。長く同じWindowsPCを使っているとCドライブの空容量が少なくなりませんか？私は少なくなりました。2017年に購入したデスクトップのゲーミングPCだったのですが、当時はまだM.2 SSDの価格が高く金額をおさえるためにCドライブの容量を256GBにしました(それでもプラス1万円)
 
@@ -26,7 +30,7 @@ class: chapter
 
 [購入したSSDのASCIIによるレビュー記事](https://ascii.jp/elem/000/004/057/4057945/)
 
-![購入したSSDのASCIIによるレビュー記事](./images/cdrive_001.png)
+![購入したSSDのASCIIによるレビュー記事](./images/chap-forte/cdrive_001.png)
 
 次に現在Cドライブとして使用しているSSDからディスクイメージをとり、新しく購入した大容量のSSDに書き込みます。これにはフリーのバックアップツールを使用しました。
 
@@ -65,7 +69,7 @@ class: chapter
 
 公式サイト<span class="footnote">https://jp.minitool.com/backup/shadowmaker-pro.html</span>からダウンロード可能です。丈夫メニューのダウンロードからShadowmakerをダウンロードしましょう。
 
-![Minitool Shadowmaker公式サイト](./images/cdrive_002.png)
+![Minitool Shadowmaker公式サイト](./images/chap-forte/cdrive_002.png)
 
 インストールは特に注意点などなく、次へ次へでOKです。
 
@@ -86,7 +90,7 @@ SSDを差し替えたら電源ケーブルを接続し起動します。ちゃ�
 ## 2年経った結果
 私はこの作業を2023年夏に行いました。執筆している2025年3月の時点で1年半以上経っていますが、問題はありません。むしろSSDにMMO以外のゲームも入れられるようになったので、QOLが上がった気がします。
 
-![執筆時点でのCドライブ状況、余裕ありまくり](./images/cdrive_003.png)
+![執筆時点でのCドライブ状況、余裕ありまくり](./images/chap-forte/cdrive_003.png)
 
 費用としては1万5千円弱でCドライブの空容量を劇的に増やせたので良い買い物だったと思います。
 
