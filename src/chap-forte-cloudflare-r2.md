@@ -2,11 +2,12 @@
 class: chapter
 ---
 
+# Podcast音源配信にCloudFlare R2を使う
+
 <div class="flush-right">
 FORTE(フォルテ)@FORTEgp05
 </div>
 
-# Podcast音源配信にCloudFlare R2を使う
 本章の執筆をしましたFORTE(フォルテ)と申します。この記事ではPodcastの音源(MP3)配信にCloudFlare R2というサービスを使用した話を紹介したいと思います。
 
 昨今では音楽生成AIによって生成したMP3ファイルを気軽に配信したいと思うかもしれません。そんな時にご一読いただければ幸いです。

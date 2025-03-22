@@ -35,6 +35,7 @@ const def = {
 	"chap-datacategory.md",
 	"chap-placeholder.md",
   "chap-forte-Increase_C-Drive_capacity.md",
+  "chap-forte-cloudflare-r2.md",
   "chap-fumiyasac.md",
 
     // 後書き
