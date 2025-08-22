@@ -38,6 +38,7 @@ const def = {
   	"chap-forte-cloudflare-r2.md",
   	"chap-fumiyasac.md",
   	"chap-oyakata-raid.md",
+	"chap-kaminuma-promptengineering.md",
 
     // 後書き
     "90-postscript.md",
