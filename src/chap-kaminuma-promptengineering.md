@@ -9,7 +9,9 @@ class: chapter
 その時の実装内容をサンプルとして下記のGithubページに置いているので
 そちらのコードも確認しながら読んでもらえたらと思います。
 
-**「　サンプルのURL　」**
+**サンプルコードのURL**
+
+**https://github.com/kaminuma/kaminuma-gishohaku-samples**
 
 本記事では、プロンプトエンジニアリングの理論的基礎から実装まで、2つの章に分けて解説していきます。
 
