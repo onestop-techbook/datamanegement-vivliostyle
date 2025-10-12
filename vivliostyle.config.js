@@ -39,6 +39,8 @@ const def = {
   	"chap-fumiyasac.md",
   	"chap-oyakata-raid.md",
 	"chap-kaminuma-promptengineering.md",
+	"chap-321rule.md",
+	"chap-backup-archive.md",
 
     // 後書き
     "90-postscript.md",

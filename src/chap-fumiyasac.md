@@ -14,9 +14,9 @@ class: chapter
 
 ### 平素からまとめているノート例
 
-![Tinder風のUIをSwiftUIで作成した際の設計ノート](./images/chap-fumiyasac/my_note_example1.jpg)
+![Tinder風のUIをSwiftUIで作成した際の設計ノート](./images/chap-fumiyasac/my_note_example1.jpg){width=90%}
 
-![iOS17から登場したObservationを利用したVIPERアーキテクチャの設計ノート](./images/chap-fumiyasac/my_note_example2.jpg)
+![iOS17から登場したObservationを利用したVIPERアーキテクチャの設計ノート](./images/chap-fumiyasac/my_note_example2.jpg){width=90%}
 
 ## プライベートブログ技術構成と定型作業
 
