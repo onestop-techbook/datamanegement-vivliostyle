@@ -92,7 +92,7 @@ Webアプリケーションのバックエンドエンジニアですが、い�
     <img src="images/kaminuma.png">
     <div>
         <div>
-            <b>kaminuma</b>
+            <b>かみぬま</b>
             <a href="https://x.com/kaminuma_dev">X@kaminuma_dev</a>
         </div>
         <div>
