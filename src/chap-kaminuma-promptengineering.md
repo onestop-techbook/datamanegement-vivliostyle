@@ -15,7 +15,7 @@ class: chapter
 
 **サンプルコードのURL**
 
-**https://github.com/kaminuma/kaminuma-gishohaku-samples**
+**https://github.com/kaminuma/kaminuma-prompt-samples**
 
 本記事では、プロンプトエンジニアリングの理論的基礎から実装まで、2つの章に分けて解説していきます。
 
