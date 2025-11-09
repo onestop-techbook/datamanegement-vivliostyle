@@ -41,6 +41,8 @@ const def = {
 	"chap-kaminuma-promptengineering.md",
 	"chap-321rule.md",
 	"chap-backup-archive.md",
+	"chap-kaminuma-datamanage.md",
+	"chap-riskassessment",
 
     // 後書き
     "90-postscript.md",

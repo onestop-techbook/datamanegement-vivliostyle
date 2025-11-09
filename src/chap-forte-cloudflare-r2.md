@@ -14,16 +14,16 @@ FORTE(フォルテ)@FORTEgp05
 
 なお、これはZennにアップした記事<span class="footnote">https://zenn.dev/forte/articles/cc5b98508c2eda</span>を元に後日談を加筆したり修正したものになります。
 
-![元となったZenn記事](./images/chap-forte/chap-forte/r2_004.png)
+![元となったZenn記事](./images/chap-forte/r2_004.png)
 
 ## Podcast配信サイトを自分で作成可能なYattecast
 私はaozora.fm<span class="footnote">https://fortegp05.github.io/aozorafm/</span>というPodcastを配信しています。
 
-![仕事や趣味の楽しさを共有する雑談系Podcast aozora.fm](./images/chap-forte/chap-forte/r2_001.png)
+![仕事や趣味の楽しさを共有する雑談系Podcast aozora.fm](./images/chap-forte/r2_001.png)
 
 これはYattecast<span class="footnote">https://r7kamura.github.io/yattecast/</span>というテンプレートを改造したPodcast配信ページです。
 
-![Podcastサイトをつくるためのテンプレート Yattecast](./images/chap-forte/chap-forte/r2_002.png)
+![Podcastサイトをつくるためのテンプレート Yattecast](./images/chap-forte/r2_002.png)
 
 昨今はSpotifyやListenなどさまざまで手軽にPodcastを配信できるサービスが増えてきました。しかし一方でそれらのサイトでは見た目が同じようになってしまう、好きに改造できないというデメリットもあります。
 
@@ -38,9 +38,9 @@ Github PagesのGithub Actionsは毎回リポジトリ内の全てのファイル
 
 しかし、Podcast配信サイトとなると1エピソードにつき数十MBのMP3ファイルが含まれるため、エピソード数が多くなればなるほどそこそこのサイズのMP3ファイルがアーカイブ、アップロードされるようになり、デプロイに時間がかかるようになります。
 
-甚爾のaozora.fmでは86エピソード、合計3.77GBのMP3ファイルが存在し、デプロイに30分前後かかるようになっていました。
+当時のaozora.fmでは86エピソード、合計3.77GBのMP3ファイルが存在し、デプロイに30分前後かかるようになっていました。
 
-![改善後、現在のデプロイ時間(30分前後が40秒前後に！)](./images/chap-forte/chap-forte/r2_003.png)
+![改善後、現在のデプロイ時間(30分前後が40秒前後に！)](./images/chap-forte/r2_003.png)
 
 今回はこのデプロイ時間が長いという問題を解消した顛末を紹介します。ほとんどいないと思いますが、YattecastでPodcastを配信している方、これから配信しようとしている方に向けて参考になれば幸いです。
 
