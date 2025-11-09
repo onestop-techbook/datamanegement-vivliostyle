@@ -42,7 +42,7 @@ const def = {
 	"chap-321rule.md",
 	"chap-backup-archive.md",
 	"chap-kaminuma-datamanage.md",
-	"chap-riskassessment",
+	"chap-riskassessment.md",
 
     // 後書き
     "90-postscript.md",
