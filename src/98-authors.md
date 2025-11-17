@@ -89,11 +89,27 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 </p>
 
 <div class="author-profile">
+    <img src="images/kaminuma.png">
+    <div>
+        <div>
+            <b>かみぬま</b>
+            <a href="https://x.com/kaminuma_dev">X@kaminuma_dev</a>
+        </div>
+        <div>
+            サークル名：FreoLab
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+フルスタックエンジニアとして業務を行いつつ、個人開発を楽しんでいます。
+</p>
+
+<div class="author-profile">
     <img src="images/yuusukesan_400_400.png">
     <div>
         <div>
             <b>おかもとゆうすけ</b>
-            <a href="https://x.com/yuusukesan18">Twitter(X)@yuusukesan18</a>
+            <a href="https://x.com/yuusukesan18">X@yuusukesan18</a>
         </div>
         <div>
             サークル名：はーふテックサークル

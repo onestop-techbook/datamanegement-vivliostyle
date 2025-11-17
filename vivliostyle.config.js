@@ -34,8 +34,15 @@ const def = {
     "chap-device.md",
 	  "chap-datacategory.md",
 	  "chap-placeholder.md",
-    "chap-forte-Increase_C-Drive_capacity.md",
-    "chap-fumiyasac.md",
+	  "chap-forte-Increase_C-Drive_capacity.md",
+  	"chap-forte-cloudflare-r2.md",
+  	"chap-fumiyasac.md",
+  	"chap-oyakata-raid.md",
+	  "chap-kaminuma-promptengineering.md",
+	  "chap-321rule.md",
+	  "chap-backup-archive.md",
+	  "chap-kaminuma-datamanage.md",
+	  "chap-riskassessment.md",
     "chap-yuusukesan18.md",
 
     // 後書き
