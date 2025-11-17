@@ -70,7 +70,7 @@ Google検索で、「本　自炊　業者」というキーワードで検索�
 業者の比較表が、以下になります。
 
  <figure id="table2">
-    <figcaption>HTML complex table</figcaption>
+    <figcaption>筆者調べによる業者比較</figcaption>
     <table>
         <thead>
             <tr>
@@ -81,28 +81,28 @@ Google検索で、「本　自炊　業者」というキーワードで検索�
             <tr>
                 <td rowspan="2">A社</td>
                 <td>基本料金</td>
-                <td>有料オプション</td>
+                <td>80円〜/冊(税別)</td>
             </tr>
             <tr>
-                <td>80円〜/冊(税別)</td>
+                <td>有料オプション</td>
                 <td>◯</td>
             </tr>
             <tr>
                 <td rowspan="2">B社</td>
                 <td>基本料金</td>
-                <td>有料オプション</td>
+                <td>165円/冊(税込)</td>
             </tr>
             <tr>
-                <td>165円/冊(税込)</td>
+                <td>有料オプション</td>
                 <td>○</td>
             </tr>
             <tr>
                 <td rowspan="2">C社</td>
                 <td>基本料金</td>
-                <td>有料オプション</td>
+                <td>140円/冊(税別)</td>
             </tr>
             <tr>
-                <td>140円/冊(税別)</td>
+                <td>有料オプション</td>
                 <td>◯</td>
             </tr>
         </tbody>
