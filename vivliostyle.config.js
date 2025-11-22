@@ -44,6 +44,7 @@ const def = {
 	  "chap-kaminuma-datamanage.md",
 	  "chap-riskassessment.md",
     "chap-yuusukesan18.md",
+    "chap-mobengineer.md",
 
     // 後書き
     "90-postscript.md",
