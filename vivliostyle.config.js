@@ -45,6 +45,10 @@ const def = {
 	  "chap-riskassessment.md",
     "chap-yuusukesan18.md",
     "chap-mobengineer.md",
+    "chap-digitaldata.md",
+    "chap-compression.md",
+    "chap-datacorrection.md",
+
 
     // 後書き
     "90-postscript.md",
