@@ -49,6 +49,7 @@ const def = {
     "chap-compression.md",
     "chap-datacorrection.md",
     "chap-kawahara-2dai.md",
+    "Rhodium-poem.md",
 
 
     // 後書き
