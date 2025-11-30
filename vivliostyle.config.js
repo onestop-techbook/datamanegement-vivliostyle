@@ -48,6 +48,7 @@ const def = {
     "chap-digitaldata.md",
     "chap-compression.md",
     "chap-datacorrection.md",
+    "chap-kawahara-2dai.md",
 
 
     // 後書き
