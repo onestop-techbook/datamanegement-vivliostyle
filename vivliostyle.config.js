@@ -36,6 +36,7 @@ const def = {
 	  "chap-placeholder.md",
 	  "chap-forte-Increase_C-Drive_capacity.md",
   	"chap-forte-cloudflare-r2.md",
+    "chap-forte-iPhone.md",
   	"chap-fumiyasac.md",
   	"chap-oyakata-raid.md",
 	  "chap-kaminuma-promptengineering.md",
