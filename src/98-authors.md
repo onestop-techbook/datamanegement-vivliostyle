@@ -1,6 +1,7 @@
 ---
 class: author
 ---
+
 # 企画・編集
 
 <div class="author-profile">
@@ -134,6 +135,21 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 ごくごく一般的なインフラエンジニア。アウトプット活動をちょこちょこ行っています。
+</p>
+
+<div class="author-profile">
+    <img src="images/yuni-shinogami-icon.jpg">
+    <div>
+        <div>
+            <b>慕狼ゆに</b>
+            <a href="https://x.com/yuni_shinogami">X@yuni_shinogami</a>
+        </div>
+        <div>
+            サークル名：エンジニア集会</div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+にょわにょわWebエンジニア。「エンジニア集会」というコミュニティを運営している。毎週金曜日にVRChatでエンジニア交流会を開催。つよつよエンジニアを目指して修行中。
 </p>
 
 <!-- ページ数調整 -->
