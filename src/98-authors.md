@@ -152,6 +152,19 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 にょわにょわWebエンジニア。「エンジニア集会」というコミュニティを運営している。毎週金曜日にVRChatでエンジニア交流会を開催。つよつよエンジニアを目指して修行中。
 </p>
 
+<div class="author-profile">
+    <img src="images/yumechi_400x400.png">
+    <div>
+        <div>
+            <b>yumechi</b>
+            <a href="https://twitter.com/__yumechi">X@__yumechi</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+カンファレンスのついでに旅行ばかり言っているわけですが、画像データがとんでもない速度で増えていて大変です。焼肉を食べるためだけに同人誌を書くことがあります。
+</p>
+
 <!-- ページ数調整 -->
 <br />
 <br />
