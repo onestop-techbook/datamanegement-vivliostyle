@@ -26,29 +26,33 @@ const def = {
 
     // 第一部 とにかく楽をする
     "part-easy.md",
-	  "chap-introduction.md",
+    "chap-introduction.md",
 
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
     "chap-device.md",
-	  "chap-datacategory.md",
-	  "chap-placeholder.md",
-	  "chap-forte-Increase_C-Drive_capacity.md",
-  	"chap-forte-cloudflare-r2.md",
-  	"chap-fumiyasac.md",
-  	"chap-oyakata-raid.md",
-	  "chap-kaminuma-promptengineering.md",
-	  "chap-321rule.md",
-	  "chap-backup-archive.md",
-	  "chap-kaminuma-datamanage.md",
-	  "chap-riskassessment.md",
+    "chap-datacategory.md",
+    "chap-placeholder.md",
+    "chap-forte-Increase_C-Drive_capacity.md",
+    "chap-forte-cloudflare-r2.md",
+    "chap-forte-iPhone.md",
+    "chap-fumiyasac.md",
+    "chap-oyakata-raid.md",
+    "chap-kaminuma-promptengineering.md",
+    "chap-321rule.md",
+    "chap-backup-archive.md",
+    "chap-kaminuma-datamanage.md",
+    "chap-riskassessment.md",
     "chap-yuusukesan18.md",
     "chap-mobengineer.md",
     "chap-digitaldata.md",
     "chap-compression.md",
     "chap-datacorrection.md",
-
+    "chap-kawahara-2dai.md",
+    "Rhodium-poem.md",
+    "chap-sustainable-note-taking.md",
+    "chap-yumechi-1.md",
 
     // 後書き
     "90-postscript.md",
