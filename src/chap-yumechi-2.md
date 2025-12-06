@@ -56,5 +56,5 @@ class: chapter
 
 [^notion]: Notion: オールインワンのワークスペースツール。ドキュメント作成、データベース、タスク管理、Wiki などの機能が統合されており、チームでの共同作業にも適している。 https://www.notion.so/
 [^obsidian]: Obsidian: ローカルファイルベースの Markdown 知識管理ツール。ノート間のリンク機能が強力で、知識をグラフ構造で可視化できる。プライバシー重視でオフライン利用が可能。 https://obsidian.md/
-[^hatenablog]: はてなブログ: 日本の老舗ブログサービス。Markdown記法に対応し、技術系ブロガーに人気。無料プランでも多機能で、はてなブックマークとの連携によるSEO効果も期待できる。 https://hatenablog.com/
+[^hatenablog]: はてなブログ: 日本の老舗ブログサービス。Markdown記法に対応し、技術系ブロガーに人気。無料プランでも多機能。 https://hatenablog.com/
 [^note]: note: クリエイター向けのコンテンツ配信プラットフォーム。直感的なエディタで初心者でも使いやすく、有料記事の販売も可能。多様なジャンルのユーザー層を持つ。 https://note.com/
