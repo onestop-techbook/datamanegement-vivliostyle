@@ -53,6 +53,7 @@ const def = {
     "Rhodium-poem.md",
     "chap-sustainable-note-taking.md",
     "chap-yumechi-1.md",
+    "chap-yumechi-2.md",
 
     // 後書き
     "90-postscript.md",
