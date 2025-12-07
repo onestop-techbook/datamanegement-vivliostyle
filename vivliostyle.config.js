@@ -29,26 +29,28 @@ const def = {
     "chap-introduction.md",
 
 
-    // 第二部 Vivliostyleについて
+    // 第二部 バックアップのための理論的なところについて
     "part-tips.md",
+	"chap-digitaldata.md",
     "chap-device.md",
     "chap-datacategory.md",
-    "chap-placeholder.md",
+    "chap-compression.md",
+    "chap-datacorrection.md",
+    "chap-riskassessment.md",	
+    "chap-321rule.md",		
+    "chap-oyakata-raid.md",
+    "chap-backup-archive.md",	
+
+    // 第三部 データマネジメントの実践について
+	"part-datamanagement.md",
     "chap-forte-Increase_C-Drive_capacity.md",
     "chap-forte-cloudflare-r2.md",
     "chap-forte-iPhone.md",
     "chap-fumiyasac.md",
-    "chap-oyakata-raid.md",
     "chap-kaminuma-promptengineering.md",
-    "chap-321rule.md",
-    "chap-backup-archive.md",
     "chap-kaminuma-datamanage.md",
-    "chap-riskassessment.md",
     "chap-yuusukesan18.md",
     "chap-mobengineer.md",
-    "chap-digitaldata.md",
-    "chap-compression.md",
-    "chap-datacorrection.md",
     "chap-kawahara-2dai.md",
     "Rhodium-poem.md",
     "chap-sustainable-note-taking.md",

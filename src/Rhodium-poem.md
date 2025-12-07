@@ -2,8 +2,8 @@
 class: chapter
 ---
 
-
 # 技術革新で欠損するデータベースとの戦い
+
 <div class="flush-right">
 @\_rhodium_ ロジウム
 </div>
