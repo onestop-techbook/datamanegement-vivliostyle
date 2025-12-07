@@ -32,6 +32,11 @@ const def = {
     // 第二部 バックアップのための理論的なところについて
     "part-tips.md",
 	"chap-digitaldata.md",
+
+    "chap-ditflame-1.md",
+　　"chap-ditflame-2.md",
+	　"chap-ditflame-3.md",
+
     "chap-device.md",
     "chap-datacategory.md",
     "chap-compression.md",
@@ -102,3 +107,4 @@ if (isPrint) {
 }
 
 export default def;
+
