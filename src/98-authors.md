@@ -167,6 +167,22 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 カンファレンスのついでに旅行ばかり行っているわけですが、画像データがとんでもない速度で増えていて大変です。焼肉を食べるためだけに同人誌を書くことがあります。
 </p>
 
+<div class="author-profile">
+    <img src="images/ditflame_400x400.jpg">
+    <div>
+        <div>
+            <b>ふーれむ(ditflame)</b>
+            <a href="https://x.com/ditflame">X@ditflame</a>
+        </div>
+        <div>
+          <a href="https://qiita.com/ditflame">Qiitaでちょこちょこ技術ネタ書いたりしてます。</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+大阪在住。前職が社内SEでしたがデータ管理は結構トラウマしかないですｗ。一応データベーススペシャリストです。ここ数年はそれっぽい事はまったくしていませんが……
+</p>
+
 <!-- ページ数調整 -->
 <br />
 <br />
@@ -178,3 +194,4 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 <br />
 <br />
 <br />
+
