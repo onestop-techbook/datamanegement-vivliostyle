@@ -183,6 +183,19 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 大阪在住。前職が社内SEでしたがデータ管理は結構トラウマしかないですｗ。一応データベーススペシャリストです。ここ数年はそれっぽい事はまったくしていませんが……
 </p>
 
+<div class="author-profile">
+    <img src="images/sapi_kawahara.jpg">
+    <div>
+        <div>
+            <b>さっぴー川原</b>
+            <a href="https://twitter.com/sapi__kawahara">@sapi__kawahara</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+2大クラウドの狭間でこんなに悩むとは思わなかった。AIの便利さを享受する以前に何とかしてほしかった。
+</p>
+
 <!-- ページ数調整 -->
 <br />
 <br />
