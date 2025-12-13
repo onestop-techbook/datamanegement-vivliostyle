@@ -31,12 +31,12 @@ const def = {
 
     // 第二部 バックアップのための理論的なところについて
     "part-tips.md",
-	"chap-digitaldata.md",
+	  "chap-digitaldata.md",
 
     "chap-ditflame-1.md",
-	"chap-ditflame-2.md",
-	"chap-ditflame-3.md",
-	"chap-rhodium-infomation.md",
+	  "chap-ditflame-2.md",
+	  "chap-ditflame-3.md",
+	  "chap-rhodium-infomation.md",
     "chap-device.md",
     "chap-datacategory.md",
     "chap-compression.md",
@@ -61,7 +61,8 @@ const def = {
     "chap-sustainable-note-taking.md",
     "chap-yumechi-1.md",
     "chap-yumechi-2.md",
-	"chap-raspinas-hizumi.md",
+    "chap-raspinas-hizumi.md",
+    "chap-ditflame-4_windowstips.md",
 
     // 後書き
     "90-postscript.md",
@@ -108,4 +109,5 @@ if (isPrint) {
 }
 
 export default def;
+
 
