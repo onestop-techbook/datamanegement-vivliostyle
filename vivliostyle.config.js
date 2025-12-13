@@ -34,9 +34,9 @@ const def = {
 	"chap-digitaldata.md",
 
     "chap-ditflame-1.md",
-　　"chap-ditflame-2.md",
-	　"chap-ditflame-3.md",
-
+	"chap-ditflame-2.md",
+	"chap-ditflame-3.md",
+	"chap-rhodium-infomation.md",
     "chap-device.md",
     "chap-datacategory.md",
     "chap-compression.md",
@@ -57,10 +57,11 @@ const def = {
     "chap-yuusukesan18.md",
     "chap-mobengineer.md",
     "chap-kawahara-2dai.md",
-    "Rhodium-poem.md",
+    "chap-rhodium-poem.md",
     "chap-sustainable-note-taking.md",
     "chap-yumechi-1.md",
     "chap-yumechi-2.md",
+	"chap-raspinas-hizumi.md",
 
     // 後書き
     "90-postscript.md",

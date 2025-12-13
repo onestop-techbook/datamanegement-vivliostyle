@@ -1,4 +1,5 @@
 ---
+lang: 'ja'
 class: chapter
 ---
 
@@ -60,7 +61,7 @@ class: chapter
 
 https://prtimes.jp/main/html/rd/p/000000028.000026998.html
 
-また、HDDやSSDも販売しているバッファローのデータ復旧サービスでの対応を見てみましょう。
+HDDやSSDも販売しているバッファローのデータ復旧サービスでの状況も見てみましょう。
 
 https://www.buffalo.jp/biz/industry/detail/tera-replace-index.html
 
