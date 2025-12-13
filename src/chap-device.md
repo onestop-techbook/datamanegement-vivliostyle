@@ -167,7 +167,7 @@ LTO Ultriumや、DDS(2010年頃まで。現在はもう消えたようです…)
 
 画像引用元：https://museum.ipsj.or.jp/en/computer/device/magnetic_tape/0003.html
 
-![FACOM603]("./images/chap-device/facom603.jpg")
+![FACOM603](./images/chap-device/facom603.jpg){width=50%}
 
 ## 紙
 デジタル技術が発展した現代においても、紙は依然として重要なデータ保存手段の一つです。印刷物として保存することは、一見アナログで非効率に思えますが、耐久性や視認性の面で優れている部分も多いといえるでしょう。

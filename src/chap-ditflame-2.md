@@ -53,7 +53,7 @@ class: chapter
 
 つまり、「ストレージ」と「通信」には非常に似通った論点が多くあることがわかります。
 
-
+<br>
 
 ストレージにせよ、通信にせよ、基礎の奥底には**1bitをどう物理の世界に表現するか**があります。
 
@@ -65,7 +65,7 @@ class: chapter
 
 引用：https://www.tdk.com/ja/news_center/press/20220107_01.html
 
-　
+　 
 
 通信でも、基礎的な変調方式(ASK:Amplitude Shift Keyingや、FSK:Frequency Shift Keying)では信号の有無や、信号周波数の切り替えで変調を行います。
 
@@ -147,7 +147,7 @@ QPSKの例だと次のようになります。符号毎に90度ずつ信号の�
 
 4QAM～64QAMの例だと次のようになります。もう何がなんやらという感じですね。
 
-![QAMの例](./images/chap-ditflame-2/ditflame_2_10_qam.png){width=0.5}
+![QAMの例](./images/chap-ditflame-2/ditflame_2_10_qam.png){width=50%}
 
 引用：https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation
 
