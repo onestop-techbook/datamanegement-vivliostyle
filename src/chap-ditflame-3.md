@@ -48,7 +48,7 @@ class: chapter
 
 また、一般的なサーバーグレードではないPCのメモリに対し、誤り検出・訂正機能はこれまで搭載されていなかったのが、なぜ昨今では急に必須となったかというと、コンピューターが一般化し、また半導体プロセスが微細化した現在では、宇宙線に起因する「ソフトエラー」が有意に観測されてしまうため　だそうで、例えば次のような記事が公開されていたりします。
 
-![宇宙線によるソフトウェアエラーは思った以上に有意に起きているらしい](./images/chap-ditflame-3/ditflame_3_03.png)
+![宇宙線によるソフトウェアエラーは思った以上に有意に起きているらしい](./images/chap-ditflame-3/ditflame_3_03.png){width=50%}
 
 参考　https://journal.ntt.co.jp/article/17465
 
@@ -238,9 +238,6 @@ DR(ディザスタリカバリ)やBCP(事業継続計画)的な文脈ですが�
 
 たとえばみずほフィナンシャルグループさんが、次のようなシステム障害レポートを出しています。この分野については、**銀行に勤めている、ストレージに関してのプロ中のプロでもミスすることがある分野だ**というのは覚えておいて良いでしょう。
 
-![システム障害レポート](./images/chap-ditflame-3/ditflame_3_08_incident.png)
+![システム障害レポート ストレージ損傷についての詳しい記述が……](./images/chap-ditflame-3/ditflame_3_08_incident.png)
 
-![ストレージ損傷についての詳しい記述が……](./images/chap-ditflame-3/ditflame_3_09_incident2.png)
-
-https://www.mizuho-fg.co.jp/investors/financial/briefing/pdf/20211102.pdf
-
+引用元： https://www.mizuho-fg.co.jp/investors/financial/briefing/pdf/20211102.pdf
