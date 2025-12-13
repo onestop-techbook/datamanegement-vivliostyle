@@ -17,7 +17,7 @@ iPhone使いの皆さん、空き容量はいかがですか？  切羽詰まっ
 
 [Apple Store](https://www.apple.com/jp/shop/buy-iphone/iphone-17)
 
-![執筆時点のiPhone17 価格](./images/chap-forte/iphone_001.jpg)
+![執筆時点のiPhone17 価格](./images/chap-forte/iphone_001.jpg){width=0.5}
 
 単純にストレージ「だけ」に3万5千円と言うのは高いです。しかもストレージが増えるだけなのでバックアップはしてくれません。それは自己責任です。
 
