@@ -7,10 +7,10 @@ class: colophon
 </div>
 
 <div>
-    <div class="colophon-title">ワンストップデータマネジメント</div>
+    <div class="colophon-title">ワンストップ　バックアップ</div>
     <table>
         <tr>
-            <td colspan="3">2025年10月26日 初版発行 第12回 技術書同人誌博覧会</td>
+            <td colspan="3">2025年12月31日 初版発行 コミックマーケット107</td>
         </tr>
         <tr>
             <td>　</td>

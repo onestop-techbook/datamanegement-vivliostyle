@@ -164,21 +164,6 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 </p>
 
 
-<div class="author-profile">
-    <img src="images/mottox2-icon.jpeg">
-    <div>
-        <div>
-            <b>もっと</b>
-            <a href="https://twitter.com/mottox2">X@mottox2</a>
-        </div>
-        <div>
-          <a href="https://twitter.com/mottox2">https://mottox2.com</a>
-        </div>
-    </div>
-</div>
-<p style="margin-top: 0.5em; margin-bottom: 2em;">
-ソフトウェアデザイナーです。かねてから気になっていたVivliostyleで本を作る機会に恵まれました。原稿は程々にテーマファイルをひたすら弄っていました。
-</p>
 
 
 ## 表紙デザイン
