@@ -165,6 +165,10 @@ QPSKの例だと次のようになります。符号毎に90度ずつ信号の�
 
 引用：https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation
 
+<br>
+
+<br>
+
 <div class="column">
 <div class="column-title">余談：なぜここまで無茶な事してデータの密度増やしてんの？</div>
 
